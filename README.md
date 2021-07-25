@@ -1,2 +1,2 @@
 # web-dev
-Starter projects on web development using HTML, node.js, CSS and bootstrap 4.
+Files for starter projects on web development using HTML, node.js, CSS and bootstrap 4.
